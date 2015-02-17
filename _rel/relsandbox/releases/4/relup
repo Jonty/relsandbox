@@ -20,4 +20,4 @@
     {remove,{relsandbox_boring,brutal_purge,brutal_purge}},
     {purge,[relsandbox_boring]},
     {remove,{relsandbox_phonebook,brutal_purge,brutal_purge}},
-    {purge,[relsandbox_phonebook]}]}]}.
+    {purge,[relsandbox_phonebook]}]}]}. 
