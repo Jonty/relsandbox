@@ -1,6 +1,6 @@
-[{release,"relsandbox","1","6.3",
+[{release,"relsandbox","2","6.3",
           [{kernel,"3.1","./lib/kernel-3.1"},
            {stdlib,"2.3","./lib/stdlib-2.3"},
            {sasl,"2.4.1","./lib/sasl-2.4.1"},
-           {relsandbox,"1","./lib/relsandbox-1"}],
+           {relsandbox,"2","./lib/relsandbox-2"}],
           permanent}].

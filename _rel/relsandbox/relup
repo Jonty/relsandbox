@@ -1,0 +1,9 @@
+{"2",
+ [{"1",[],
+   [{load_object_code,{relsandbox,"2",[relsandbox_counter]}},
+    point_of_no_return,
+    {load,{relsandbox_counter,brutal_purge,brutal_purge}}]}],
+ [{"1",[],
+   [{load_object_code,{relsandbox,"1",[relsandbox_counter]}},
+    point_of_no_return,
+    {load,{relsandbox_counter,brutal_purge,brutal_purge}}]}]}.
