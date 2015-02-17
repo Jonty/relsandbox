@@ -1,9 +1,6 @@
 .rebar3
-_*
 .eunit
 *.o
-*.beam
-*.app
 *.plt
 *.swp
 *.swo
@@ -11,7 +8,6 @@ _*
 log
 erl_crash.dump
 .rebar
-_rel
 _deps
 _plugins
 _tdeps
